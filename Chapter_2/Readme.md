@@ -17,5 +17,5 @@
           /Users/ryannance/workspace/davinci_coders_t3_2015/building_the_toolbelt_t3_2015
 
        5. How do you find the path to the Class Directory in the graphical file browser?
-          I go to Finder and select my home (ryannance), then Workspace, davinci_coders_t3_2015, the building_the_toolbelt_t3_2015
+          I go to Finder and select my home (ryannance), then Workspace, davinci_coders_t3_2015
           
