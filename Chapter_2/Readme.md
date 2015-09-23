@@ -5,7 +5,7 @@
        2. Are you in the class directory?
           In the command line I typed pwd and to find my present working directory and it is:
           /Users/ryannance/workspace/davinci_coders_t3_2015/building_the_toolbelt_t3_2015
-          So the answer is yes I am in the class directory
+          So the answer is no I am not in the class directory
           
        3. Are you in the home directory?   
           In the command line I typed pwd and to find my present working directory and it is:
