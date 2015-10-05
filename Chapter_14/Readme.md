@@ -17,13 +17,7 @@
         ls
     
     3. Can you remove everything in the slash temp slash foo directory?    
-        cd tmp
-        mkdir foo
-        touch foofoo.txt
-        cd foo
-        rm foofoo.txt
-        cd ..
-        rmdir foo
-        cd ..
-        rmdir tmp
+        rmdir /tmp/foo
+        Directory not empty
+        rm -rf /tmp/foo/
         
