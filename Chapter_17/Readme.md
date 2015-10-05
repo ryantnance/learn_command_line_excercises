@@ -1,15 +1,14 @@
     1. Can you show me all the files in slash temp slash foo?
-        cd /tmp
-        cd foo
-        find *.txt
-            happy.txt
-            sad.txt
+        cd /tmpfind /tmp/foo -name '*' -print
+            /tmp/foo
+            /tmp/foo/happy.txt
+            /tmp/foo/sad.txt
+        
             
     
     
     2. What log files are in your log directory?
-        cd log
-        find *.txt
-            fred.txt
-            ted.txt
-            tom.txt
+        $find . -name '*.log' -print
+            ./log/one.log
+            ./log/three.log
+            ./log/two.log
