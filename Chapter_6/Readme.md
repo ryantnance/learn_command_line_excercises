@@ -4,31 +4,35 @@
     ENGLISH QUESTIONS
     
     1. What's in the tmp directory?
-      I typed ls into the command line
-      stuff
-    
+          cd tmp
+          ls
+          stuff.txt
+          
     2. Can you show me what files are in that directory?
-      I typed cd stuff into the command line
-      then ls
-      things
-    
+          ls
+          stuff.txt
+      
     3. What files are in your home directory?
-      I typed cd ~ into the command line
-      the ls
-      result:   Applications		Library			Public
-                    Desktop			      Movies		   RubymineProjects
-                    Documents		    Music		 VirtualBox VMs
-                    Downloads		    Pictures		workspace
+          ls ~
+          Applications		Music
+          Chapter_10		Pictures
+          Desktop			Public
+          Documents		RubymineProjects
+          Downloads		VirtualBox VMs
+          Library			workspace
+          Movies
     
     4. What's in slash temp?
-      This is part of our root directory
-      I typed cd /tmp into command line
-      result:   KSDownloadAction.yl8gMueTBk
-                    KSInstallAction.9SWgISe2ch
-                    KSOutOfProcessFetcher.501.HVXI9pQwBk_bgiVJaTNhiQNhqxc=
-                    KSOutOfProcessFetcher.501.I5ci1K_TwCwqo1sKvc0siaBbJTw=
-                    KSOutOfProcessFetcher.tVZPF3aTzS
-                    com.apple.launchd.HMpWACWJjN
-                    com.apple.launchd.oai31pO46F
+          ls /tmp
+          Chapter_0
+          Chapter_1
+          KSOutOfProcessFetcher.501.HVXI9pQwBk_bgiVJaTNhiQNhqxc=
+          boo.txt
+          com.apple.launchd.HMpWACWJjN
+          com.apple.launchd.oai31pO46F
+          foo.txt
+          moo.txt
+          production.log
+          
       
       
