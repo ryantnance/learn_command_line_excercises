@@ -1,5 +1,8 @@
     1. Can you show me the contents of database.yml?
-      This is a story all about how
+      cd tmp
+      ls tmp
+      cat database.yml
+          This is a story all about how
           My life got flip-turned upside down
           And I liked to take a minute and sit right there
           And tell you how I became the prince of a town called Bel Air
@@ -26,6 +29,7 @@
           
     
     2. What is in your Gemfile?
+      cat gemfile
           Ruby
           Diamond
           Saphhire
