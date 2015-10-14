@@ -29,7 +29,7 @@
           
     
     2. What is in your Gemfile?
-      cat gemfile
+      cat Gemfile
           Ruby
           Diamond
           Saphhire
