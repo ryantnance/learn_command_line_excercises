@@ -13,15 +13,13 @@
         /Users/ryannance
 
     4. Can you set your environment to have DEBUG set to true?
-      exprot DEBUG="TRUE"
+      export DEBUG="TRUE"
       echo $DEBUG
         TRUE
     
     5. Explain how you would change your path on your computer.
        echo $PATH
-          /Users/ryannance/.rvm/gems/ruby-2.2.3@homework-tester/bin:/Users/ryannance/.rvm/gems/ruby-2.2.3@global/bin:
-          /Users/ryannance/.rvm/rubies/ruby-2.2.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/ryannance/
-          .rvm/bin
+          $ PATH=$PATH:~/opt/bin
           
           
           
