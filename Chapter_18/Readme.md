@@ -8,17 +8,17 @@
         are you sure?
         I'm sure this line does not have an error
         Look again
-      grep error foo.txt
+      grep -i ERROR foo.txt
         this line does not have an error
         I'm sure this line does not have an error
     
     2. Show me the lines in bar.txt that have "davinci" in them.
       touch bar.txt
       cat > bar.txt
-        Davinci coders teaches me
+        davinci coders teaches me
         I learn from Davinci
         Leo's last name is Dicaprio
-      grep Davinci bar.txt
+      grep -i davinci bar.txt
         Davinci coders teaches me
         I learn from Davinci
         
